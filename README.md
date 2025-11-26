@@ -17,7 +17,6 @@ Foram aplicados conceitos de modelagem lógica, integridade referencial, normali
 
 ## 📁 Estrutura do Repositório
 
-📦 /ProjetoGraciePower
 ┣ 📜 01_create_tables.sql
 ┣ 📜 02_inserts.sql
 ┣ 📜 03_selects.sql
